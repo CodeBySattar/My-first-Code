@@ -115,7 +115,6 @@
             <a href="#" class="cv-download">Download Full CV</a>
         </div>
     </section>
-
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
@@ -128,7 +127,6 @@
             </form>
         </div>
     </section>
-
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
