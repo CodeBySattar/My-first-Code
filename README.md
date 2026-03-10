@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Navigation Bar -->
     <nav class="navbar">
         <div class="container">
             <div class="logo">Sattar Ahmed</div>
@@ -20,7 +19,6 @@
             </ul>
         </div>
     </nav>
-    <!-- Home Section -->
     <section id="home" class="hero">
         <div class="container">
             <div class="hero-content">
@@ -31,7 +29,6 @@
             </div>
         </div>
     </section>
-    <!-- About Section -->
     <section id="about" class="about">
         <div class="container">
             <h2>About Me</h2>
@@ -43,7 +40,6 @@
             </div>
         </div>
     </section>
-    <!-- Skills Section -->
     <section id="skills" class="skills">
         <div class="container">
             <h2>Skills</h2>
@@ -67,8 +63,6 @@
             </div>
         </div>
     </section>
-
-    <!-- Projects Section -->
     <section id="projects" class="projects">
         <div class="container">
             <h2>Projects</h2>
@@ -91,8 +85,6 @@
             </div>
         </div>
     </section>
-
-    <!-- CV Section -->
     <section id="cv" class="cv-section">
         <div class="container">
             <h2>My CV</h2>
@@ -114,7 +106,7 @@
             </div>
             <a href="#" class="cv-download">Download Full CV</a>
         </div>
-    </section>   <!-- Contact Section -->
+    </section>
     <section id="contact" class="contact">
         <div class="container">
             <h2>Get In Touch</h2>
@@ -126,7 +118,6 @@
             </form>
         </div>
     </section>
-    <!-- Footer -->
     <footer class="footer">
         <div class="container">
             <p>&copy; 2026 Sattar Ahmed. All rights reserved.</p>
@@ -139,4 +130,4 @@
     </footer>
     <script src="script.js"></script>
 </body>
-</html> 
+</html>
