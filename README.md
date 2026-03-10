@@ -114,8 +114,7 @@
             </div>
             <a href="#" class="cv-download">Download Full CV</a>
         </div>
-    </section>
-    <!-- Contact Section -->
+    </section>   <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
             <h2>Get In Touch</h2>
