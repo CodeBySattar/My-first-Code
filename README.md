@@ -20,7 +20,6 @@
             </ul>
         </div>
     </nav>
-
     <!-- Home Section -->
     <section id="home" class="hero">
         <div class="container">
@@ -32,7 +31,6 @@
             </div>
         </div>
     </section>
-
     <!-- About Section -->
     <section id="about" class="about">
         <div class="container">
@@ -45,7 +43,6 @@
             </div>
         </div>
     </section>
-
     <!-- Skills Section -->
     <section id="skills" class="skills">
         <div class="container">
@@ -143,7 +140,6 @@
             </div>
         </div>
     </footer>
-
     <script src="script.js"></script>
 </body>
 </html> 
